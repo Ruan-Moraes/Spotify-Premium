@@ -1,6 +1,6 @@
-# Clone Spotify Premium com Tailwind CSS
+# Landing Page do Spotify com Tailwind CSS - Projeto de Curso
 
-![LandingPage Spotify](https://i0.wp.com/tracklist.com.br/wp-content/uploads/2021/04/spotify-logo.png?resize=1024%2C512&ssl=1)
+![Imagem do projeto](https://github.com/Ruan-Moraes/Spotify-Premium/assets/129057792/9a9dddb6-7ef8-4cd9-9085-09befc353659)
 
 ## Sobre o Projeto
 
